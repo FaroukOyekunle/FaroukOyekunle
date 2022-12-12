@@ -20,7 +20,7 @@
 I always make time for open source contributions, which allows me to broaden my knowledge and collaborate with other developers and teams around the world.
 
 - 💥 [sysbeams](https://github.com/sysbeams): Enterprise-Level Modern Web Applications Collection
-- 🛒 [Blazor Hero](https://github.com/sysbeams/epinmart-payment-service): epinmart-payment-service is a Clean Architecture Solution project that connects to the checkout and order services in order to create a payment solution built with the dotnet framework 6.0.
+- 🛒 [Epin Mart](https://github.com/sysbeams/epinmart-payment-service): epinmart-payment-service is a Clean Architecture Solution project that connects to the checkout and order services in order to create a payment solution built with the dotnet framework 6.0.
 - 📬 [Clean Architecture - WebApi Solution for ASP.NET Core](https://github.com/FaroukOyekunle/CleanArchitecture.WebApi): An Implementation of Clean Architecture with ASP.NET Core 6.0 WebApi will give you access to the world of Loosely-Coupled and Inverted-Dependency Architecture in ASP.NET Core 6.0 WebApi, along with many best practices.
 - 🥇 as well as numerous other repositories
 

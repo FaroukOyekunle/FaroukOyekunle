@@ -1,112 +1,94 @@
-<h1 align="center">Hi there, I'm Farouk Oyekunle 👋</h1>
+<!--## Hi there 👋, my name is Farouk Oyekunle-->
 
+
+### Welcome to my github page
+<!--![Welcome to my github page ](images/github%20profile.gif)-->
+
+
+
+
+### ⚡ Daily quote: 
 <!--STARTS_HERE_QUOTE_README-->
 
 <!--ENDS_HERE_QUOTE_README-->
 
 
-I'm a software engineer, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using C#, .NET on top of cutting-edge technologies. My interests include microservices, system design, software architecture, domain driven design (DDD), event sourcing, CQRS, DevOps. I love learning, sharing, and facing challenges. Last but not least, I am also an open-source enthusiast.
 
-<p align="center"> 
- <a href="https://twitter.com/FaroukOyekunle" alt="Farouk Oyekunle's twitter">
-   <img src="https://img.shields.io/badge/%20-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
- </a>
- <a href="https://FaroukOyekunle.com" alt="Farouk Oyekunle's blog">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=%23F58025&logo=rss&logoColor=FFFFFF&label=" />
- </a>
-  <a href="https://www.youtube.com/faroukoyekunle" alt="Farouk Oyekunle's youtube">
-   <img src="https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
- </a>
- <a href="https://github.com/FaroukOyekunle" alt="Farouk Oyekunle's github">
-   <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
- </a>
- <a href="https://www.linkedin.com/in/faroukoyekunle" alt="Farouk Oyekunle's linkedin">
-   <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/faroukoyekunle" />
- </a>
- <a href="https://faroukoyekunle.netlify.app" alt="Farouk Oyekunle's blog">
-   <img src="tps://img.shields.io/badge/%20-Blog-%23FF5722?logo=blogger&logoColor=white&style=for-the-badge" />
- </a>
- <a>
-   <img src="https://komarev.com/ghpvc/?username=faroukoyekunle&color=ff69b4&style=for-the-badge" />
- </a>
-</p>
+<!--
+### Musical vibes
 
-<h2 align="center">🛠 Technologies & Skils</h2>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jnmtkgm9g3byjiiftxmv9hfe6&unique={true|1|on|yes})
+-->
 
-<p align="center">
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="golang" width="54"
-            height="54" style="vertical-align:top; margin:4px;">
-    </a>
-     <a href="https://dotnet.microsoft.com/">
-          <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" 
-              width="54" height="54" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="https://dotnet.microsoft.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="54"
-            height="54" alt="dotnet" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
-            width="54" height="54" alt="postgres" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.mongodb.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="54"
-            height="54" alt="mongodb" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="54"
-             height="54" alt="Blazor" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://hub.docker.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="54"
-            height="54" alt="docker" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://azure.microsoft.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="54" height="54"
-            alt="azure" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.rabbitmq.com">
-         <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" width="54" height="54" alt="rabbitmq" 
-             style="vertical-align:top; margin:4px">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"
-            width="64" height="64" alt="kafka" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="54"
-            height="54" alt="javascript" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.github.com">
-         <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="54" 
-             height="54" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.git.com">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" width="54" height="54"
-               style="vertical-align:top; margin:4px">
-    </a>
-</p>
+### Streak
 
-<br/>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=FaroukOyekunle">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FaroukOyekunle" />
+</a>
 
-<h2 align="center">💻 Open Source Projects</h2>
 
-<p align="left">
-  I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally. here are some of my projects:
-</p>
+### Github stats
 
-- 🛍️ [FaroukOyekunle/ecommerce-microservices](https://github.com/FaroukOyekunle/ecommerce-microservices)
-- 🧺 [FaroukOyekunle/store-golang-microservices](https://github.com/FaroukOyekunle/store-golang-microservices)
-- 🚃 [FaroukOyekunle/Go-MediatR](https://github.com/FaroukOyekunle/Go-MediatR)
-- ⚡ [FastEndpoints/FastEndpoints - Contributer](https://github.com/FastEndpoints/FastEndpoints)
-- 🐉 [FaroukOyekunle/vertical-slice-api-template](https://github.com/FaroukOyekunle/vertical-slice-api-template)
-- 📙 [davidfowl/TodoApi - Contributer](https://github.com/davidfowl/TodoApi)
-- 🚀 [FaroukOyekunle/awesome-software-architecture](https://github.com/FaroukOyekunle/awesome-software-architecture)
-- 🪣 [FaroukOyekunle/ecommerce-modular-monolith](https://github.com/FaroukOyekunle/ecommerce-modular-monolith)
-- 🎬 [FaroukOyekunle/trentflix-movie-search-application](https://github.com/FaroukOyekunle/Trentflix.Backend)
+<!--
+[![](https://raw.githubusercontent.com/FaroukOyekunle/FaroukOyekunle/version-2/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+-->
 
-<h2 align="center">🚀 Activities</h2>
-<p align="center">
-  <a href="#" alt="Farouk Oyekunle's github stats"><img src="https://github-readme-stats.vercel.app/api?username=FaroukOyekunle" /></a>
-</p>
+[![](https://raw.githubusercontent.com/FaroukOyekunle/FaroukOyekunle/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FaroukOyekunle/FaroukOyekunle/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/FaroukOyekunle/FaroukOyekunle/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FaroukOyekunle/FaroukOyekunle/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
+
+
+<!--
+### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=FaroukOyekunle&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FaroukOyekunle)
+-->
+
+### Social links
+
+[![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaroukOyekunle)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faroukoyekunle/)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](oyekunlefarouk2001@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/faroukoyekunle)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/faroukoyekunle/) 
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Oyekunle-Farouk) 
+
+
+
+### Tools & Technologies
+
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+
+
+
+
+<!--
+### Contribution graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FaroukOyekunle)  
+-->
+
+### Weekly focus
+
+<!--START_SECTION:waka-->
+
+```text
+From: 24 September 2023 - To: 01 October 2023
+
+GDScript3   12 hrs 12 mins  ████████████████████████░   95.60 %
+Jupyter     29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Zed         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+CSV/TSV     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+```
+
+<!--END_SECTION:waka-->
+

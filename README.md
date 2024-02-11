@@ -1,9 +1,7 @@
-![](assets/header.png)
-
 <h1 align="center">Hi there, I'm Farouk Oyekunle 👋</h1>
 
 <!--STARTS_HERE_QUOTE_README-->
-❝Gaming computers heat a room just as efficiently as a space heater does.❞
+
 <!--ENDS_HERE_QUOTE_README-->
 
 

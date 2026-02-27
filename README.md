@@ -1,18 +1,13 @@
-<!--## Hi there 👋, my name is Farouk Oyekunle-->
+## Hi there 👋, my name is Farouk Oyekunle-->
 
 
-### Welcome to my github page
+<!-- ### Welcome to my github page
 <!--![Welcome to my github page ](images/github%20profile.gif)-->
-
-
-
 
 ### ⚡ Daily quote: 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“Imagination is more important than knowledge.  For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.”— Albert Einstein   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
-
-
 
 <!--
 ### Musical vibes

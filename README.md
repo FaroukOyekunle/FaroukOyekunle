@@ -27,6 +27,10 @@
 </a>
 
 
+## 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=faroukoyekunle&rank=SECRET,SSS,SS,S,AAA)](https://github-profile-trophy-tawny.vercel.app/?username=kamyu104&&rank=SECRET,SSS,SS,S,AAA)
+
+
 ### Github stats
 
 <!--

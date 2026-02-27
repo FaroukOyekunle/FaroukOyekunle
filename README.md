@@ -31,7 +31,7 @@
 [![trophy](https://github-profile-trophy-tawny.vercel.app/?username=faroukoyekunle&rank=SECRET,SSS,SS,S,AAA)](https://github-profile-trophy-tawny.vercel.app/?username=kamyu104&&rank=SECRET,SSS,SS,S,AAA)
 
 
-### Github stats
+<!-- ### Github stats
 
 <!--
 [![](https://raw.githubusercontent.com/FaroukOyekunle/FaroukOyekunle/version-2/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

@@ -5,7 +5,7 @@
 
 ### ⚡ Daily quote: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Programming can be fun, so can cryptography; however they should not be combined.”— Kreitzberg and Shneiderman  ❞</i>
+<i>❝“Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’  Now they have two problems.”— Jamie Zawinski   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--
